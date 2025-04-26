@@ -1,3 +1,6 @@
+git add index.html
+git commit -m "Rename to index.html for GitHub Pages"
+git push
 <!DOCTYPE html>
 <html lang="en">
 <head>
